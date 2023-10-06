@@ -1,3 +1,3 @@
-#output name {
-#  value  = "${var.bucket_name}"
-#}
+output name {
+  value  = "${var.bucket_name}"
+}
